@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.disam": "makefile",
+        "cstdlib": "cpp"
+    }
+}
